@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Links</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <img src="your-profile-picture.jpg" alt="Profile Picture" class="profile-pic">
+        <h1>Your Name</h1>
+        <div class="links">
+            <a href="https://link1.com" class="link" target="_blank">Link 1</a>
+            <a href="https://link2.com" class="link" target="_blank">Link 2</a>
+            <a href="https://link3.com" class="link" target="_blank">Link 3</a>
+            <!-- Add more links as needed -->
+        </div>
+    </div>
+</body>
+</html>
